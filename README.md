@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>"¡Hola! Soy Uriel, un apasionado programador Front-End con 3 años de experiencia en desarrollo independiente. <br>Me especializo en la creación de interfaces de usuario atractivas <br>y funcionales utilizando tecnologías como HTML, CSS, Python y JavaScript. <br>Estoy constantemente buscando nuevos desafíos y <br>oportunidades para colaborar en proyectos innovadores. ¡Bienvenido a mi perfil!"<br>
+<br>"¡Hola! Soy Uriel, un apasionado programador Front-End en desarrollo independiente tambien especialista en ciberseguridad. <br>Me especializo en la creación de interfaces de usuario atractivas <br>y funcionales utilizando tecnologías como HTML, CSS, Python y JavaScript. <br>Estoy constantemente buscando nuevos desafíos y <br>oportunidades para colaborar en proyectos innovadores. ¡Bienvenido a mi perfil!"<br>
 
 
 ## 🌐 Socials:
