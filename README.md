@@ -12,7 +12,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 
 ### 🛡️ Ciberseguridad & Scripting
 Utilizo **Python** para la automatización de tareas de seguridad y manejo las siguientes herramientas. Tengo experiencia específica en la **auditoría de red** usando herramientas como **Bettercap** y **Ettercap**, además de:
