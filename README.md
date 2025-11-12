@@ -17,7 +17,7 @@
 Utilizo **Python** para la automatización de tareas de seguridad y manejo las siguientes herramientas. Tengo experiencia específica en la **auditoría de red** usando herramientas como **Bettercap** y **Ettercap**, además de:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Nmap](https://img.shields.io/badge/Nmap-0080FF?style=for-for-the-badge&logo=nmap&logoColor=white) 
+![Nmap Scanning](https://img.shields.io/badge/Nmap_Scanning-0080FF?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF8000?style=for-the-badge&logo=portswigger&logoColor=white) 
 ![Metasploit](https://img.shields.io/badge/Metasploit-EE1700?style=for-the-badge&logo=metasploit&logoColor=white) 
