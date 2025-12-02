@@ -1,4 +1,4 @@
-# ¡Hola! Soy Uriel Medich 👋 | Developer & Cybersec Analyst
+# ¡Hola! Soy Uriel👋 | Developer & Cybersec Analyst
 
 > Mi enfoque es la **seguridad ofensiva** (pentesting) y construir **software robusto** desde el Front-End hasta el Backend, priorizando la defensa de la información.
 
