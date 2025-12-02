@@ -44,7 +44,7 @@ Mi experiencia en desarrollo web se centra en la programación, la funcionalidad
 * Uso de JS para desarrollo de *scripts* y entornos.
 
 ### **¡Pronto!**
-Estoy preparando el lanzamiento público de **[Forwarning bot]**, [Realizando proycto en lenguaje Pyton para monitoreo de grupos]. ¡Mantente atento a las actualizaciones!
+
 
 ---
 
@@ -54,6 +54,6 @@ Estoy preparando el lanzamiento público de **[Forwarning bot]**, [Realizando pr
 
 ---
 
-## 📈 Mi Actividad en GitHub
+## 📈 Mi Actividad en GitHub1
 
-[![Uriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Uriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=UrielDev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
