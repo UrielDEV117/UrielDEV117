@@ -56,4 +56,4 @@ Mi experiencia en desarrollo web se centra en la programación, la funcionalidad
 
 ## 📈 Mi Actividad en GitHub
 
-[![Uriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=UrielDEV117&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![UrielDev117's GitHub stats](https://github-readme-stats.vercel.app/api?username=UrielDev117&show_icons=true&theme=radical)
