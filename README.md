@@ -12,11 +12,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 🛡️ Ciberseguridad & Scripting
-Utilizo **Python** para la automatización de tareas de seguridad y manejo las siguientes herramientas. Tengo experiencia específica en la **auditoría de red** usando herramientas como **Bettercap** y **Ettercap**, además de:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+Utilizo **Python** para la automatización de tareas de seguridad y manejo las siguientes herramientas. Tengo experiencia específica en la **auditoría de red** usando herramientas como **Bettercap** y **Ettercap**, además de 
 ![Nmap Scanning](https://img.shields.io/badge/Nmap_Scanning-0080FF?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF8000?style=for-the-badge&logo=portswigger&logoColor=white) 
